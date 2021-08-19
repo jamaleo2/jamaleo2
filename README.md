@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jamaleo2
 - 👀 I’m interested in travelling, Bike riding
 - 🌱 I’m currently learning JAVA, Cyber Security
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Java Techs
 - 📫 How to reach me omkar.amale5@gmail.com
 
 <!---
